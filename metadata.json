@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Notas",
+  "description": "Calculadora de notas universitarias para determinar cuánto necesitás sacar para aprobar tus materias (con promedio simple o ponderado).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
